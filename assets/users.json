@@ -1,0 +1,65 @@
+[
+    {
+        "nom": "Laborderie",
+        "prenom": "Antoine",
+        "id": "LAB-ANTOINE",
+        "adresses": {
+            "email": "alaborderie@lekooa.com",
+            "domicile": "87 avenue du code - JavaScript"
+        }
+    },
+    {
+        "nom": "Dupont",
+        "prenom": "Jean",
+        "id": "DUP-JEAN",
+        "adresses": {
+            "email": "djean@test.com",
+            "domicile": "--"
+        }
+    },
+    {
+        "nom": "Benoit",
+        "prenom": "Gérard",
+        "id": "BEN-GERARD",
+        "adresses": {
+            "email": "bgerard@test.com",
+            "domicile": "--"
+        }
+    },
+    {
+        "nom": "De Sousa",
+        "prenom": "Marco",
+        "id": "SOU-MARCO",
+        "adresses": {
+            "email": "dsmarco@test.com",
+            "domicile": "4 rue atagauche - Parla"
+        }
+    },
+    {
+        "nom": "test",
+        "prenom": "test",
+        "id": "TES-TEST",
+        "adresses": {
+            "email": "ttest@test.com",
+            "domicile": "test"
+        }
+    },
+    {
+        "nom": "Arsaut",
+        "prenom": "Julien",
+        "id": "ARS-JULIEN",
+        "adresses": {
+            "email": "jarsaut@test.com",
+            "domicile": "--"
+        }
+    },
+    {
+        "nom": "Lecar",
+        "prenom": "Dominique",
+        "id": "LEC-DOMINIQUE",
+        "adresses": {
+            "email": "dlecar@test.com",
+            "domicile": "Somewhere"
+        }
+    }
+]

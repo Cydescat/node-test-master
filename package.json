@@ -1,0 +1,29 @@
+{
+  "name": "node-test",
+  "version": "0.0.0",
+  "description": "Test technique Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekooa/node-test.git"
+  },
+  "author": "Antoine Laborderie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekooa/node-test/issues"
+  },
+  "homepage": "https://github.com/lekooa/node-test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "firebase-admin": "^6.3.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}

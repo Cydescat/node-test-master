@@ -1,0 +1,48 @@
+[
+    {
+        "lastName": "Laborderie",
+        "prenom": "Antoine",
+        "id_ext": "LAB-ANTOINE",
+        "email": "alaborderie@test.com",
+        "domicile": "--"
+    },
+    {
+        "lastName": "Dupont",
+        "firstName": "Jean",
+        "id_ext": "DUP-JEAN",
+        "email": "djean@test.com",
+        "domicile": "--"
+    },
+    {
+        "lastName": "Admin",
+        "firstName": "Admin",
+        "email": "admin@lekooa.com"
+    },
+    {
+        "lastName": "Kreckelbergh",
+        "firstName": "Stéphane",
+        "email": "skreckelbergh@lekooa.com",
+        "domicile": "Pays basque"
+    },
+    {
+        "lastName": "test",
+        "firstName": "test",
+        "id_ext": "TES-TEST",
+        "email": "ttest@test.com",
+        "domicile": "test"
+    },
+    {
+        "lastName": "Arsaut",
+        "firstName": "Julien",
+        "id_ext": "ARS-JULIEN",
+        "email": "kikou7786@test.com",
+        "domicile": "--"
+    },
+    {
+        "lastName": "Lecar",
+        "firstName": "Dominique",
+        "id_ext": "LEC-DOMINIQUE",
+        "email": "dlecar@test.com",
+        "domicile": "In the deep"
+    }
+]
